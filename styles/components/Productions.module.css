@@ -1,0 +1,16 @@
+.secao { 
+    width: auto;
+    display: flex;
+    max-height: 55vh;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    flex-direction: row;
+}
+
+.production { 
+    display: flex;
+}
+
+.description {
+
+}
